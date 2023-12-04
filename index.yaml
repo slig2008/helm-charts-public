@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  acme-lego-httpreq-selfhostde:
+  - apiVersion: v2
+    appVersion: v1.0.0
+    created: "2023-12-04T19:33:01.595004368Z"
+    description: Forward dns-01 challenge from acme lego client to selfhost.de
+    digest: 586ce11f9852981435f91180a6e0f9f94865fca3c31d68df0a6ac52abd81d3be
+    name: acme-lego-httpreq-selfhostde
+    type: application
+    urls:
+    - acme-lego-httpreq-selfhostde/acme-lego-httpreq-selfhostde-0.1.0-4826481.tgz
+    version: 0.1.0-4826481
+generated: "2023-12-04T19:33:01.585844336Z"
